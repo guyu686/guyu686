@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   # 👋 Hello，here is guyu
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
 
 
