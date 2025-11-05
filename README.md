@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=guyu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
   
-  # 👋 Hello，here is Zephyr Zhong
+  # 👋 Hello，here is guyu
   
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
@@ -81,27 +81,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=guyu686&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
-</h2>
-
-<div align="center">
-  <a href="https://github.com/guyu686/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guyu686&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guyu686&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<!-- 添加项目按钮 -->
-<div align="center">
-  <a href="https://github.com/guyu686?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
