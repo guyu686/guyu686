@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 我是geek组一名正在接受考核的小登
+- 🌱 正在学习编程
+- 🤔 寻求geek组长老的支持与辅导
+- guyu等着你去探索和开发，非常期待与GitHub的各位相遇
 <!--
 **guyu686/guyu686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
